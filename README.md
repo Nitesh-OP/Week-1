@@ -1,4 +1,11 @@
 # Week-1
-here we devlope an CNN model using an jupiter,tensorflow
-here we train an AI to identify an organic and inorganic waste 
-we have used an libraries like numpy,pandas,opencv,and tensorflow
+In this phase, we developed a Convolutional Neural Network (CNN) model using Jupyter Notebook and TensorFlow. The goal was to train an AI system to classify waste as either organic or inorganic. The following libraries were utilized during development:
+
+NumPy
+
+Pandas
+
+OpenCV
+
+TensorFlow
+
